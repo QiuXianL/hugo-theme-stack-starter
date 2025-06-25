@@ -14,9 +14,9 @@ url = "https://github.com/QiuXianL"
 [social.params]
 icon = "brand-github"
 
-[[social]]
-identifier = "qq"
-name = "QQ"
-url = "https://wpa.qq.com/msgrd?v=3&uin=162211800&site=qq&menu=yes"
-[social.params]
-icon = "message"
+# [[social]]
+# identifier = "qq"
+# name = "QQ"
+# url = "https://wpa.qq.com/msgrd?v=3&uin=162211800&site=qq&menu=yes"
+# [social.params]
+# icon = "message"
