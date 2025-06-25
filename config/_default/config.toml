@@ -1,4 +1,4 @@
-baseurl = "https://你的博客域名/"
+baseurl = "https://blog.qiuxianli.dpdns.org/"
 languageCode = "zh-cn"
 title = "秋贤的博客"
 defaultContentLanguage = "zh-cn"
@@ -14,7 +14,7 @@ hasCJKLanguage = true
 
   [[params.social]]
     name = "GitHub"
-    url = "https://github.com/你的GitHub用户名"
+    url = "https://github.com/QiuXianL"
     icon = "github"
 
 # 分页设置
