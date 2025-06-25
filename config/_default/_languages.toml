@@ -6,4 +6,4 @@
   contentDir = "content"
   [zh-cn.params]
     sidebar = { subtitle = "欢迎来到我的博客" }
-    footer = { since = 2024, customText = "© 秋贤的博客" }
+    footer = { since = 2025, customText = "© 秋贤的博客" }
