@@ -7,39 +7,6 @@
 #icon = "home"
 #newtab = true
 
-# 配置主菜单
-[[main]]
-identifier = "home"
-name = "首页"
-url = "/"
-[main.params]
-icon = "home"
-newtab = false
-
-[[main]]
-identifier = "archives"
-name = "归档"
-url = "/archives/"
-[main.params]
-icon = "archive"
-newtab = false
-
-[[main]]
-identifier = "search"
-name = "搜索"
-url = "/search/"
-[main.params]
-icon = "search"
-newtab = false
-
-[[main]]
-identifier = "links"
-name = "友链"
-url = "/links/"
-[main.params]
-icon = "link"
-newtab = false
-
 [[social]]
 identifier = "github"
 name = "GitHub"
@@ -52,4 +19,4 @@ identifier = "qq"
 name = "QQ"
 url = "https://wpa.qq.com/msgrd?v=3&uin=162211800&site=qq&menu=yes"
 [social.params]
-icon = "brand-qq"
+icon = "message"
