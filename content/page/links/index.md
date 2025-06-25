@@ -13,16 +13,4 @@ menu:
 comments: false
 ---
 
----
-links:
-  - title: 爱心
-    description: 这是一颗给你的爱心
-    website: heart.qiuxianli.dpdns.org
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-menu:
-    main: 
-        weight: 4
-        params:
-            icon: link
-comments: false
----
+
