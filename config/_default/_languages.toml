@@ -1,6 +1,9 @@
-# Rename this file to languages.toml to enable multilingual support
-[en]
-languageName = "English"
-languagedirection = "ltr"
-title = "Example Site"
-weight = 1
+[zh-cn]
+  languageName = "简体中文"
+  weight = 1
+  title = "秋贤的博客"
+  description = "记录生活与思考"
+  contentDir = "content"
+  [zh-cn.params]
+    sidebar = { subtitle = "欢迎来到我的博客" }
+    footer = { since = 2024, customText = "© 秋贤的博客" }
