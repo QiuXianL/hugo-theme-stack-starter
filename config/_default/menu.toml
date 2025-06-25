@@ -15,10 +15,10 @@ url = "https://github.com/QiuXianL"
 [social.params]
 icon = "brand-github"
 
-# [[social]]
-# identifier = "twitter"
-# name = "Twitter"
-# url = "https://twitter.com"
+[[social]]
+identifier = "qq"
+name = "QQ: 162211800"
+url = "https://wpa.qq.com/msgrd?v=3&uin=162211800&site=qq&menu=yes"
 
-# [social.params]
-# icon = "brand-twitter"
+[social.params]
+icon = "message"
