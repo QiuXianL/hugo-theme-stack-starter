@@ -3,6 +3,7 @@ languageCode = "zh-cn"
 title = "秋贤的博客"
 defaultContentLanguage = "zh-cn"
 hasCJKLanguage = true
+favicon = "static/images/薇古丝头像.jpg"
 
 [params]
   # 侧边栏副标题
