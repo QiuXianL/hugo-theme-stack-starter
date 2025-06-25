@@ -1,18 +1,22 @@
-# Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
-languageCode = "en-us"
-title = "Hugo Theme Stack Starter"
+baseurl = "https://你的博客域名/"
+languageCode = "zh-cn"
+title = "秋贤的博客"
+defaultContentLanguage = "zh-cn"
+hasCJKLanguage = true
 
-# Theme i18n support
-# Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
-defaultContentLanguage = "en"
+[params]
+  # 侧边栏副标题
+  subtitle = "记录生活与思考"
 
-# Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
-# This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage = false
+  [params.footer]
+    since = 2024
+    customText = "© 秋贤的博客"
 
-# Change it to your Disqus shortname before using
-disqusShortname = "hugo-theme-stack"
+  [[params.social]]
+    name = "GitHub"
+    url = "https://github.com/你的GitHub用户名"
+    icon = "github"
 
+# 分页设置
 [pagination]
-pagerSize = 5
+  pagerSize = 5
