@@ -1,7 +1,5 @@
 ---
 title: links
----
-```
 links:
   - title: 标签
     description: 描述
@@ -12,4 +10,4 @@ menu:
         params:
             icon: link
 comments: false
-```
+---
