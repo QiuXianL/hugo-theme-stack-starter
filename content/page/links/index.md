@@ -3,9 +3,9 @@ title: links
 ---
 ```
 links:
-  - title: 爱心
-    description: 这是一颗给你的爱心
-    website: https://heart.qiuxianli.dpdns.org/
+  - title: 标签
+    description: 描述
+    website: 链接
 menu:
     main: 
         weight: 4
